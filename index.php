@@ -1,7 +1,7 @@
-<?php $company = "T AND M LANDSCAPING";
-$phone = "(719) 948-1559";
-	$address1 = "563 S PUEBLO BLVD";
-	$address2 = "PUEBLO, CO 81005";
+<?php $company = "SAFRIT LANDSCAPE CONSTRUCTION COMPANY INC";
+$phone = "(704) 636-9340";
+	$address1 = "627 W INNES ST STE 1";
+	$address2 = "SALISBURY, NC 28144";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
